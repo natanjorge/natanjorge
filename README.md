@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+https://github-readme-stats.vercel.app/api?username=[natanjorge]
 
 <div align="left">
   <a href="https://github.com/natanjorge">
