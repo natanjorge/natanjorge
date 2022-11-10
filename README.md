@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/natanjorge">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanjorge&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjorge&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanjorge&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjorge&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,6 +18,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/natan-oliveira-jorge-24ab32121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/natanjorge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:natanjorge1913@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ##
   ![Snake animation](https://github.com/natanjorge/natanjorge/blob/output/github-contribution-grid-snake.svg)
