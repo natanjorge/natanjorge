@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <a href="https://github.com/natanjorge">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanjorge&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
