@@ -10,8 +10,7 @@
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Natan-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"> 
   <img align="center" alt="Natan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-  <img align="center" alt="Natan-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-   <img align="right" alt="Natan-GIF" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/851445670002163714/1030824484590063646/yoda-star-wars.gif">
+  <img align="right" alt="Natan-GIF" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/851445670002163714/1030824484590063646/yoda-star-wars.gif">
 </div>
   
   
