@@ -1,3 +1,9 @@
+Me chamo Natan Jorge, tenho 27 anos e sou natural de São Paulo – SP.
+Atualmente, atuo como Desenvolvedor ADVPL na TOTVS, com foco em customizações, integrações REST e desenvolvimento de telas MVC, relatórios, etc. para o ERP Protheus.
+
+Sou apaixonado por tecnologia e inovação, e estou constantemente aprimorando minhas habilidades em inteligência artificial área em que curso pós-graduação na FIAP.
+Gosto de criar soluções que conectem o Protheus com o mundo moderno, unindo performance, automação e inteligência de dados.
+
 </div>
 <div align="left">
   <a href="https://github.com/natanjorge">
