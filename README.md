@@ -13,6 +13,7 @@ Gosto de desenvolver soluções que conectam o Protheus ao mundo moderno, unindo
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Natan-ADVPL" height="30" width="40" src="https://www.svgrepo.com/show/373420/advpl.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Natan-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"> 
   <img align="center" alt="Natan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
