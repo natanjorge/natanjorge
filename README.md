@@ -3,6 +3,10 @@ Atualmente atuo como Desenvolvedor ADVPL na TOTVS, com foco em customizações, 
 
 Sou apaixonado por tecnologia e inovação, e estou sempre em busca de aprimorar minhas habilidades em inteligência artificial, área na qual curso pós-graduação na FIAP.
 Gosto de desenvolver soluções que conectam o Protheus ao mundo moderno, unindo performance, automação e inteligência de dados.
+-
+My name is Natan Jorge, I’m 27 years old and from São Paulo, Brazil. 
+I currently work as an ADVPL Developer at TOTVS, focusing on customizations, REST integrations, MVC screens, and reports for the Protheus ERP system. I’m passionate about technology and innovation, and I’m constantly improving my skills in artificial intelligence, an area in which I’m pursuing a postgraduate degree at FIAP. 
+I enjoy developing solutions that connect Protheus to the modern world, combining performance, automation, and data intelligence.
 
 </div>
 <div align="left">
