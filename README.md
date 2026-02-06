@@ -13,14 +13,6 @@ I currently work as an ADVPL Developer at TOTVS, focusing on customizations, RES
 I’m passionate about technology and innovation, and I’m constantly improving my skills in artificial intelligence, an area in which I’m pursuing a postgraduate degree at FIAP. 
 I enjoy developing solutions that connect Protheus to the modern world, combining performance, automation, and data intelligence.
 
-#
-
-<div align="center">
-  <a href="https://github.com/natanjorge">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=natanjorge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjorge&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 #
 
